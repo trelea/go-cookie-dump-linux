@@ -1,0 +1,7 @@
+# Build artifacts
+/dist/
+cookie-dump
+
+# Extracted credentials — never commit these
+/out/
+*_cookies.json
